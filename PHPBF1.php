@@ -31,7 +31,7 @@ class ShopProduct
 // Листинг 03.02 Создание объектов типа ShopProduct
 $product1 = new ShopProduct ();
 $product2 = new ShopProduct ();
-$product4 = new ShopProduct ()
+$product4 = new ShopProduct ();
 // После оператора new указывается имя класса в качестве его единственного операнда.
 
 // Листинг 03.03 вывод оъектов $product1 и $product2 на печать
